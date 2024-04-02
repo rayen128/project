@@ -68,15 +68,14 @@ Tijdens dit vak zul je regelmatig de hulp inroepen van de staff en medestudenten
 
 Iedere track heeft zo zijn eigen rooster en assistentiemomenten:
 
-<!-- |           | Flask             | iOS                | Unity              |
-| --------- | ----------------- | ------------------ | ------------------ |
-| maandag   | Kim 11--13 & Wessel 13--17     |  **9--13 Yvette**  |    13--17 Martijn  |
-| dinsdag   | Quinten 9--11, Nina 13--17 & Kim 15--17 |   11--15 Yvette    |                    |
-| woensdag  | Kim 9--13         |   13--17 Julius    |    13--17 Martijn  |
-| donderdag | Matyas 9--13, Quinten 13--17 |  **11--15 Julius** |                    |
-| vrijdag   | Matyas 9--13, Nina 10--14, Wessel 13--17 |                    |  **11--15 Kamiel** | -->
-
-> TBD
+|           | Flask                  | Unity                     |
+|-----------|------------------------|---------------------------|
+| maandag   | Nina (15:00-17:00)     | Martijn (10:00-12:30)     |
+| dinsdag   | Seda (10:00-12:30)     | Martijn (13:30-17:00)     |
+| woensdag  | Nina (13:30-15:30)     |                           |
+| donderdag | **Seda (10:00-12:30)** | **Martijn (13:30-17:00)** |
+| vrijdag   | **Seda (10:00-12:30)** |                           |
+|           | **Nina (11:30-17:00)** |                           |
 
 Je gaat ook wekelijks bijeenkomen met je begeleider. De opties hiervoor staan vetgedrukt in het schema hierboven. Als je voor een track kiest moet je voor één van deze opties volledig beschikbaar zijn.
 
