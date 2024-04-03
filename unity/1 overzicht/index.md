@@ -35,5 +35,3 @@ Dit jaar wordt er gebruik gemaakt van een **Discord** kanaal om aan TA's en mede
 **Vragen over zakelijkheden als deadlines e.d. blijven via de normale communicatiemiddelen lopen** (`help@mprog.nl`). 
 
 Kijk even op [*Dont Ask To Ask*](https://dontasktoask.com/) om een goed beeld te krijgen van hoe je je vragen het beste kan stellen, en ook om te zien wat je vooral niet moet doen.
-
-De link naar het discord kanaal vind je [hier](https://discord.gg/eDah244qPq).
