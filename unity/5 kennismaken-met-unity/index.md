@@ -1,23 +1,42 @@
 # Kennismaken met Unity
 
-Voordat je aan de slag gaat met je eigen project, is het handig om eerst eens even goed kennis te maken met de game engine waarin je gaat werken. 
+Voordat je aan de slag gaat met je eigen project, is het handig om eerst eens goed kennis te maken met de game engine waarin je gaat werken. 
 
-Nu je een klein beetje bekend bent met Unity dankzij het Roll A Ball project, ga je kijken naar één van de [Microgame projecten](https://learn.unity.com/search?k=%5B%22q%3Amicrogames%22%5D) van Unity Learn.
+## Microgames
 
-Dit zijn templates waarin de basis van een spel al staat. Het is nu aan jou de opdracht om te begrijpen hoe deze games in elkaar steken, en met behulp van step-by-step tutorials 'mods' (modificaties) aan het spel toe te voegen.
+Ga allereerst aan de slag met één van de [Microgame projecten](https://learn.unity.com/search?k=%5B%22q%3Amicrogames%22%5D) van Unity Learn. Dit zijn templates waarin de basis van een spel al staat. Het is aan jou de opdracht om te begrijpen hoe deze games in elkaar steken, en met behulp van step-by-step tutorials 'mods' (modificaties) aan het spel toe te voegen. 
 
-Terwijl je nadenkt over je project voorstel, kan je alvast aan de slag met deze Microgames. Voltooi **eerst** minstens 5 mods van één van de Microgames. Ben je daar al snel klaar mee? Ga dan **daarna**  aan de slag om één van de volgende games na te maken. Zorg er voor dat in je game de volgende dingen zitten:
+* Voltooi **eerst** minstens 3 mods van één van de Microgames. 
 
-- Drie verschillende scenes waar je tussen kan laden:
-- Een startscherm met de titel van het spel en een startknop.
+## Flappy bird
+
+> We raden het aan om bij deze opdracht samen te werken. De eerste stappen gaan sneller met zijn tweeën!
+
+Om verder te oefenen met Unity en vooral hoe je zelf een eigen project kan beginnen, gaan we **daarna** een zeer bekend spel namaken, namelijk [flappy bird](https://en.wikipedia.org/wiki/Flappy_Bird). In deze arcade game, uitgebracht in 2013, speel je als een vogel die vliegend, buizen moet ontwijken om zo een hoge score te halen. 
+
+Aan jou de taak om dit in Unity na te maken, wat in zowel 2D als in 3D gedaan mag worden. Bij deze keuze is het handig om alvast rekening te houden met of je je eigen project in 2D of 3D wilt gaan maken.
+
+![](flappy_bird.jpg)
+
+Minimumeisen:
+
+- De vogel (speler) kan op en neer bewegen.
+- Gedurende het spel verschijnen er buizen om te ontwijken.
+- Voordat het spel begint is er een startscherm met de titel van het spel en een startknop.
 - Een verliesscherm met tekst waarop staat dat je verloren hebt, en een knop om opnieuw te beginnen.
-- Een winscherm met tekst waarop staat dat je gewonnen hebt, en een knop om opnieuw te beginnen.
-- Een speler die kan bewegen.
-- Een trigger die er voor zorgt dat de win-scene wordt geladen.
-- Een trigger die er voor zorgt dat de verlies-scene wordt geladen.
+- Er wordt een score bijgehouden en weergegeven.
 
-Concepten waar je aan kan denken zijn Frogger, Mario, of Pong. 
+Uitbreidingen:
 
-Hou het voor nu **super simpel**, en ga dingen nog niet al te mooi maken! Je bent nu vooral de functionaliteiten van Unity aan het leren - je eigen game voorstel komt later pas. Geen zorgen als de game niet af komt, we zijn nog aan het oefenen.
+- De topscore wordt opgeslagen en is zichtbaar op het startscherm en verliesscherm.
+- De buizen bewegen op en neer voor extra moeilijkheid.
+- Er is keuze uit verschillende vogels (of andere characters).
+- Pauzeknop
+- Andere "enemy"'s, niet alleen maar buizen.
+- Powerups
+    - Sneller/Langzamer
+    - Minder buizen
+    - Explosies?
+- Of verzin zelf nog een leuke uitbreiding :)
 
-
+Het doel hier is nu niet om jou flappy bird kopie heel mooi te gaan maken, maar om te leren omgaan met Unity. Hou het daarom voor nu **super simpel**, en investeer niet te veel tijd in het polijsten! Je bent nu vooral de functionaliteiten van Unity aan het leren - je eigen game komt later pas. Geen zorgen als je nog niet super ver komt, we zijn nog aan het oefenen. Het is daarom ook toegestaan om bij deze opdracht samen te werken, maak daar gebruik van!
