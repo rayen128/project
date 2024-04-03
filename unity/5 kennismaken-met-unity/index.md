@@ -39,4 +39,4 @@ Uitbreidingen:
     - Explosies?
 - Of verzin zelf nog een leuke uitbreiding :)
 
-Het doel hier is nu niet om jou flappy bird kopie heel mooi te gaan maken, maar om te leren omgaan met Unity. Hou het daarom voor nu **super simpel**, en investeer niet te veel tijd in het polijsten! Je bent nu vooral de functionaliteiten van Unity aan het leren - je eigen game komt later pas. Geen zorgen als je nog niet super ver komt, we zijn nog aan het oefenen. Het is daarom ook toegestaan om bij deze opdracht samen te werken, maak daar gebruik van!
+Het doel hier is nu niet om jouw flappy bird kopie heel mooi te gaan maken, maar om te leren omgaan met Unity. Hou het daarom voor nu **super simpel**, en investeer niet te veel tijd in het polijsten! Je bent nu vooral de functionaliteiten van Unity aan het leren - je eigen game komt later pas. Geen zorgen als je nog niet super ver komt, we zijn nog aan het oefenen. Het is daarom ook toegestaan om bij deze opdracht samen te werken, maak daar gebruik van!
