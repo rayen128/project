@@ -22,7 +22,7 @@ Het project wordt gedaan volgens een aantal **milestones**. Na elke milestone ga
 | ---------------- | -------------: | ----------: |
 | Projectvoorstel  |         ~8 uur | di 16 april |
 | Projectvalidatie |        ~10 uur | vr 26 april |
-| Versie 1         |        ~20 uur | vr 3 mei    |
+| Versie 1         |        ~20 uur | vr 10 mei    |
 | Versie 2         |        ~20 uur | vr 17 mei   |
 | Versie 3         |        ~20 uur | vr 24 mei   |
 
