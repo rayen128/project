@@ -8,7 +8,9 @@ De vakken Programmeren 1 en Datarepresentaties, of Programmeren 1 en 2, moet je 
 
 ## Kalender
 
-**Volg je tegelijkertijd programmeren 2 en het programmeerproject?** Dan is dit jouw schema:
+### Volg je tegelijkertijd programmeren 2 en het programmeerproject? 
+
+Dan is dit jouw schema:
 
 In dit geval volg je programmeren 2 in de eerste vier weken van het blok, en het programmeerproject in de laatste vier weken. Het programmeerproject start dan op **maandag 25 november**
 
@@ -35,7 +37,9 @@ En de **afsluiting** vindt plaats met het opleveren van je definitieve project e
 | Definitieve versie | wo 18 dec             |
 | Eindpresentaties   | do 19 dec & vr 20 dec |
 
-**Volg je alleen het programmeerproject en niet programmeren 2?** Dan is dit jouw schema:
+### Volg je alleen het programmeerproject en niet programmeren 2?
+
+Dan is dit jouw schema:
 
 Tijdens de **eerste drie weken** ga je aan de slag met de voorbereiding: het leren kennen van het platform waarmee je gaat werken.
 
