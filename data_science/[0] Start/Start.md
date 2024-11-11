@@ -10,7 +10,7 @@ Data Science draait om het creëren van waarde uit data. Dit wordt veelal gedaan
 
 ## Eigen project
 
-Je zal zelf een onderwerp verzinnen voor je eigen project. Dit betekent dus ook dat je hier zelf data voor zal moeten vinden. Maar geen zorgen! Er zijn echt genoeg openbare databases te vinden die zonder al teveel moeite te gebruiken zijn. Hier kun je zelf via verschillende sites naar zoeken, maar kijk sowieso even op [Kaggle]() voor inspiratie. Denk ook goed na over of je voor je project een onderzoeksvraag wilt gaan beantwoorden (zijn politieke voorkeuren gerelateerd aan iemands persoonlijkheid?) of iets wilt gaan voorspellen (zoals een model dat iemands emoties kan raden op basis van foto's).
+Je zal zelf een onderwerp verzinnen voor je eigen project. Dit betekent dus ook dat je hier zelf data voor zal moeten vinden. Maar geen zorgen! Er zijn echt genoeg openbare databases te vinden die zonder al teveel moeite te gebruiken zijn. Hier kun je zelf via verschillende sites naar zoeken, maar kijk sowieso even op [Kaggle](https://www.kaggle.com/) voor inspiratie. Denk ook goed na over of je voor je project een onderzoeksvraag wilt gaan beantwoorden (zijn politieke voorkeuren gerelateerd aan iemands persoonlijkheid?) of iets wilt gaan voorspellen (zoals een model dat iemands emoties kan raden op basis van foto's).
 
 Begin op tijd met het nadenken over een onderwerp en het vinden van dataset(s). Bespreek je idee ook met je begeleider, want aan het einde van de derde week moet je al een projectplan inleveren. Daarna kan je aan de slag met met een eigen project.
 
