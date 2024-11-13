@@ -10,7 +10,7 @@ with
 
 in the 'blink' program, we can see the LED blink all the same but at a much lower intensity. Note that `analogWrite(13, 0)` corresponds to `digitalWrite(13, LOW)` and `analogWrite(13, 255)` corresponds to `digitalWrite(13, HIGH)`.
 
-> Note: the function is called `analogWrite`, but the output is not really analog. It is a PWM output. [More information](arduino/BG-PWM)
+> Note: the function is called `analogWrite`, but the output is not really analog. It is a PWM output. [More information](/arduino/bg-pwm)
 
 ## Exercise
 

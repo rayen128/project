@@ -1,6 +1,6 @@
 # Sonar
 
-Use a Sonar to measure distances. A sonar sends a sound pulse and measures the time it takes for the echo to return. This allows us to estimate the distance of obstacles. [More information](arduino/BG-Sonar)
+Use a Sonar to measure distances. A sonar sends a sound pulse and measures the time it takes for the echo to return. This allows us to estimate the distance of obstacles. [More information](/arduino/bg-sonar)
 
 ## Getting started
 
