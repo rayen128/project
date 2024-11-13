@@ -14,9 +14,9 @@ Build the following circuit:
 
 ![LED hookup](BB-LED.png "300px")
 
-If you're not sure how to use a breadboard have a look here: [Breadboard wiring](arduino/Breadboard).
+If you're not sure how to use a breadboard have a look here: [Breadboard wiring](/arduino/breadboard). For resistor values look here: [Breadboard wiring](/arduino/resistor-values)
 
-> Note that a LED has a positive and negative pole, if you connect a LED the wrong way around, it doesn’t do anything. [More information](arduino/BG-LED)
+> Note that a LED has a positive and negative pole, if you connect a LED the wrong way around, it doesn’t do anything. [More information](/arduino/BG-LED)
 
 If you turn the Arduino on and you connected the LED correctly, you should see the LED blinking.
 
