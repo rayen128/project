@@ -24,16 +24,16 @@ Flask:
 
 Arduino:
   Basics:
-    Blink: /arduino/blink
-    Circuit: /arduino/circuit
-    Fade: /arduino/fade
-    Serial: /arduino/serial
-    Button: /arduino/button
-    Debounce: /arduino/debounce
-    Light Sensor: /arduino/light-sensor
-    Servo: /arduino/servo
-    Sonar: /arduino/sonar
-    Bike light: /arduino/bike-light
+    Blink [Samenwerken]: /arduino/blink
+    Circuit [Samenwerken]: /arduino/circuit
+    Fade [Samenwerken]: /arduino/fade
+    Serial [Samenwerken]: /arduino/serial
+    Button [Samenwerken]: /arduino/button
+    Debounce [Samenwerken]: /arduino/debounce
+    Light Sensor [Samenwerken]: /arduino/light-sensor
+    Servo [Samenwerken]: /arduino/servo
+    Sonar [Samenwerken]: /arduino/sonar
+    Bike light [Samenwerken]: /arduino/bike-light
   Practice Projects:
     Line-follow robot: /arduino/mBot
   Projectvoorstel (uiterlijk dinsdag 14 november):
