@@ -10,10 +10,10 @@ It is likely you will run into a problem that makes programming a bit more chall
 
 The push button is a mechanical device. When you push it, the contact plates in the button touch. The problem is, they don’t do so cleanly. You would hope the input does something like this:
 
-![Idealized effect of the button on input voltage](images/bounce1.jpg "300px")
+![Idealized effect of the button on input voltage](bounce1.jpg "300px")
 
 However, in reality it goes more like this:
 
-![Actual effect push button on input voltage](images/bounce2.jpg "300px")
+![Actual effect push button on input voltage](bounce2.jpg "300px")
 
 The mechanical contacts in the button bounce, making the signal jump up and down for a couple of milliseconds after pressing or releasing the button. This is called _bouncing_. You will have to take this into account when programming the toggle button.

@@ -8,11 +8,11 @@ So far you have seen `digitalWrite` (to control a LED), `digitalRead` (to read a
 
 First we need to build the circuit. For this we need a resistor and an LDR:
 
-![LDR](images/Components-LDR.jpg "300px")
+![LDR](Components-LDR.jpg "300px")
 
 Here below there is an example of how to connect them.
 
-![LDR hookup](images/BB-LDR.png "300px")
+![LDR hookup](BB-LDR.png "300px")
 
 ### Code
 
@@ -23,8 +23,8 @@ The code below shows how to use `analogRead` to read the LDR.
       Serial.begin(9600);
       pinMode(A0, INPUT);
     }
-    
-    void loop() 
+
+    void loop()
     {
       int ldrValue = analogRead(A0);
       Serial.println(ldrValue);
@@ -33,7 +33,7 @@ The code below shows how to use `analogRead` to read the LDR.
 
 Copy this sketch and save as `LDR`. Compile, upload and test.
 
-> Contrary to `analogWrite`, `analogRead` is actually analog. No PWM trickery here. The higher the voltage on pin `A0`, the higher the value `analogRead` returns. 
+> Contrary to `analogWrite`, `analogRead` is actually analog. No PWM trickery here. The higher the voltage on pin `A0`, the higher the value `analogRead` returns.
 
 > The value that `analogWrite` returns is a *10 bit* value, not 8 bits. This means that 5V corresponds to the value 1023 and 0V corresponds to 0. What would be the value of `analogRead(A0)` when the voltage on `A0` is 1V?
 

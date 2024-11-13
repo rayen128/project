@@ -4,7 +4,7 @@ Resistors can have different values. The higher the resistance, the less current
 
 The following chart shows how to interpret the color coding of a resistor:
 
-![Resistor chart](images/resistor-color-codes.jpg "300px")
+![Resistor chart](resistor-color-codes.jpg "300px")
 
 ## Applications:
 

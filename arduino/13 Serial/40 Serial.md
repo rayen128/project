@@ -18,7 +18,7 @@ The later prints a new-line at the end of the text.
 
 Where do these messages wind up? They’re sent over a virtual tty-modem to your computer. You can display these messages using the _Serial monitor_ in the Arduino IDE:
 
-![Serial monitor](images/serial.png "300px")
+![Serial monitor](serial.png "300px")
 
 ## Exercise
 

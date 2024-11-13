@@ -4,7 +4,7 @@ In the previous exercise you learned to program the built-in LED of the Arduino.
 
 You’ll need a LED, a resistor (1kΩ will do), a breadboard and a couple of wires:
 
-![Components](images/Components-Blink.jpg "300px")
+![Components](Components-Blink.jpg "300px")
 
 ## Exercise
 
@@ -12,11 +12,11 @@ You’ll need a LED, a resistor (1kΩ will do), a breadboard and a couple of wir
 
 Build the following circuit:
 
-![LED hookup](images/BB-LED.png "300px")
+![LED hookup](BB-LED.png "300px")
 
-If you're not sure how to use a breadboard have a look here: \[[Breadboard wiring](index.php?dir=30+Background&file=00+Breadboard)\].
+If you're not sure how to use a breadboard have a look here: [Breadboard wiring](arduino/Breadboard).
 
-> Note that a LED has a positive and negative pole, if you connect a LED the wrong way around, it doesn’t do anything. \[[More information](index.php?dir=30+Background&file=20+LED)\]
+> Note that a LED has a positive and negative pole, if you connect a LED the wrong way around, it doesn’t do anything. [More information](arduino/BG-LED)
 
 If you turn the Arduino on and you connected the LED correctly, you should see the LED blinking.
 

@@ -9,8 +9,8 @@
 
 The LED typically has a longer and a shorter lead. The shorter lead is the negative side (also called cathode):
 
-![LED direction](images/LED-direction.png "200px")
+![LED direction](LED-direction.png "200px")
 
 ## Resistors
 
-A LED requires a resistor (connected in series) to prevent too much current going through it. If you don't do this, you'll likely blow up the LED. Typical resistances for a LED are in the range 100Ω - 2kΩ. The higher the resistance, the lower the intensity of the emitted light. \[[More information](index.php?dir=30+Background&file=10+Resistor+values)\]
+A LED requires a resistor (connected in series) to prevent too much current going through it. If you don't do this, you'll likely blow up the LED. Typical resistances for a LED are in the range 100Ω - 2kΩ. The higher the resistance, the lower the intensity of the emitted light. [More information](arduino/bg-resistpr-values)

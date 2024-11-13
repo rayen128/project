@@ -8,11 +8,11 @@ Time for some input. We're going to connect a push button to our Arduino.
 
 First we need to build the circuit. For this we need a resistor (around 10kΩ) and, well, a push button:
 
-![Button](images/Components-Button.jpg "300px")
+![Button](Components-Button.jpg "300px")
 
 Connect them like this:
 
-![Push button hookup](images/BB-Button.png "300px")
+![Push button hookup](BB-Button.png "300px")
 
 ### Code
 

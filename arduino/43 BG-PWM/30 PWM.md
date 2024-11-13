@@ -7,4 +7,4 @@ When we call `analogWrite(13, 255)` it does the same as `digitalWrite(13, HIGH)`
 
 This mechanism is called _pulse width modulation_ (PWM). The duration of the 'on' time with respect to the 'off' time is called the duty cycle.
 
-![analogWrite and duty cycle](images/pwm.jpg "300px")
+![analogWrite and duty cycle](pwm.jpg "300px")

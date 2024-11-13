@@ -12,11 +12,11 @@ In this exercise you will discover how easy it is to connect a servo to the Ardu
 
 You will need a 9g micro servo:
 
-![Servo](images/servo.jpg "300px")
+![Servo](servo.jpg "300px")
 
 This is how you connect it to the Arduino:
 
-![Servo hookup](images/BB-Servo.png "300px")
+![Servo hookup](BB-Servo.png "300px")
 
 > Pay attention to the color of the wires. Red goes to the power supply (5V), brown to ground (GND), and yellow is the signal wire (connect to pin 9).
 

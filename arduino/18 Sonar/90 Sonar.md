@@ -1,6 +1,6 @@
 # Sonar
 
-Use a Sonar to measure distances. A sonar sends a sound pulse and measures the time it takes for the echo to return. This allows us to estimate the distance of obstacles. \[[More information](http://simonpauw.com/arduino/index.php?dir=30+Background&file=40+Sonar)\]
+Use a Sonar to measure distances. A sonar sends a sound pulse and measures the time it takes for the echo to return. This allows us to estimate the distance of obstacles. [More information](arduino/BG-Sonar)
 
 ## Getting started
 
@@ -8,11 +8,11 @@ Use a Sonar to measure distances. A sonar sends a sound pulse and measures the t
 
 You will need a HC-SR04 sonar sensor:
 
-![Servo](images/sonar.jpg "300px")
+![Servo](sonar.jpg "300px")
 
 This is how you connect it to the Arduino:
 
-![Sonar hookup](images/BB-Sonar.png "300px")
+![Sonar hookup](BB-Sonar.png "300px")
 
 > Pay attention to labels of the pins. VCC goes to the power supply (5V), GND to GND, 'trig' to pin 12, and 'echo' to pin 11.
 
@@ -44,7 +44,7 @@ The NewPing library takes care of the timing protocol. The function `sonar.ping(
 
 ## Exercise 1
 
-The function `sonar.ping()` essentially gives you the 'distance' to an object in microseconds. We, mortal humans prefer to think in centimeters (or inches if from _that_ corner of the world).
+The function `sonar.ping()` essentially gives you the 'distance' to an object in microseconds. We (normal people) prefer to think in centimeters (or inches if from _that_ corner of the world).
 
 Create a program that computes the distance to an object in centimeters rather than microseconds. Tip, have a look here: [https://en.wikipedia.org/wiki/Speed_of_sound](https://en.wikipedia.org/wiki/Speed_of_sound)
 

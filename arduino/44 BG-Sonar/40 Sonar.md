@@ -10,7 +10,7 @@ The HC-SR04 has a fairly simple protocol: You instruct the sensor to send a soun
 
 To be a bit more precise, consider the following figure:
 
-![Sonar](images/sonar-chart.jpg "400px")
+![Sonar](sonar-chart.jpg "400px")
 
 What happens:
 
