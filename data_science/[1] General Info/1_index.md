@@ -17,4 +17,5 @@ Q3: Stel we berekenen het gemiddelde van de cijfers die behaald zijn voor Progra
 <textarea name="form[1_Q3]" rows="4" required></textarea>
  
  
- TODO:vragen nakijken en aanpassen
+ TODO:vragen nakijken en aanpassen<br>
+ TODO: vragen in los bestand laten maken en laten inleveren?

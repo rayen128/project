@@ -1,5 +1,5 @@
 # Introductie machine learning
-TODO: opmaak
+TODO: Misschien een beetje zielig alleen een pagina hiervoor? samenvoegen met climate change?
 
-https://www.kaggle.com/learn/intro-to-machine-learning 
+Maak de Kaggle course over [machine learning](https://www.kaggle.com/learn/intro-to-machine-learning).
 
