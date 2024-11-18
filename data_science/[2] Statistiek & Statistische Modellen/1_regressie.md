@@ -1,5 +1,7 @@
 # Regressiemodellen
-TODO: vragen nakijken
+TODO: Filmpjes bekijken (Rayen)
+TODO: Vragen Checken (& veranderen indien mogelijk) (Rayen)
+TODO: Pagina & Text checken
 
 ## Main Ideas of Fitting a Line to Data (The Main Ideas of Least Squares and Linear Regression.)
 

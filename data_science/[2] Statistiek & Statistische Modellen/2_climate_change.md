@@ -1,5 +1,6 @@
 # Data Transformation
-TODO: vragen nakijken en aanpassen
+TODO: Door de opdracht heen (Lieke) (TODOs maken)
+TODO: Text & Pagina Checken
 
 ### Kaggle 
 Maak de Kaggle course over [machine learning](https://www.kaggle.com/learn/intro-to-machine-learning). Dit is als voorbereiding voor de volgende opdracht.
