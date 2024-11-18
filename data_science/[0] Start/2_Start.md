@@ -1,6 +1,7 @@
 # Data Science
 
-TODO:Nog aanpassen
+TODO: Content Schrijven (Rayen)
+TODO: (Als het af is) Petra-Check
 
 Je hebt vast wel eens gehoord over onderwerpen als (Big) Data Analytics, Machine Learning of Artificial Intelligence. Of misschien heb je in het nieuws wel eens iets gehoord over stikstofmodellen of weermodellen. Tijdens de Data Science track gaan we een tipje van de sluier oplichten over hoe dit achter de schermen echt werkt. We beginnen de eerste paar weken met theorie en bieden tools om er een beetje in te komen. Daarna ga je aan de slag met een eigen Data Science project.
 
