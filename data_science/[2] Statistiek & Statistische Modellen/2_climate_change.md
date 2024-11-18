@@ -1,9 +1,13 @@
 # Data Transformation
-TODO: Door de opdracht heen (Lieke) (TODOs maken)
 TODO: Text & Pagina Checken
 
-### Kaggle 
+## Kaggle 
 Maak de Kaggle course over [machine learning](https://www.kaggle.com/learn/intro-to-machine-learning). Dit is als voorbereiding voor de volgende opdracht.
+<br>
+<br>
+<br>
+
+> Let op! Onderstaande opdracht mag je in groepjes van 2 of 3 personen maken. Zorg wel dat jullie allemaal een eigen notebook bijhouden en begrijpen wat jullie doen.
 
 ## KNMI data
 
