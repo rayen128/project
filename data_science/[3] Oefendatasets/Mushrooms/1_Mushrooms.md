@@ -1,4 +1,6 @@
 # Mushrooms
+TODO: todo's in notebook (Rayen)
+
 
 ### Kaggle
 
@@ -11,5 +13,4 @@ Download the notebook [here](mushrooms.ipynb) and the data file [here](mushrooms
 
 Use *right click* -> *save as* to properly save the documents to your laptop.
 
-TODO: todo's in notebook
-TODO: introductie in notebooks?
+

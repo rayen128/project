@@ -1,6 +1,7 @@
 
 # Health code inspections
-TODO: vragen nakijken en aanpassen
+TODO: Opdracht Inzichtelijk Maken (Lieke)
+
 For this assignment we'll be working with restaurant health code inspection
 data from the city of Seattle. It lists which restaurants were inspected when,
 and how severe any health code violations were. This might range from simple
