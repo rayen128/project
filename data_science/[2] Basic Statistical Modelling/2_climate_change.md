@@ -1,6 +1,8 @@
 # Data Transformation
 TODO: vragen nakijken en aanpassen
-TODO: Acknowledgements Minor TA
+
+### Kaggle 
+Maak de Kaggle course over [machine learning](https://www.kaggle.com/learn/intro-to-machine-learning). Dit is als voorbereiding voor de volgende opdracht.
 
 ## KNMI data
 
@@ -13,6 +15,10 @@ of increasing average temperatures in the Netherlands over the last century?
 
 Get started by downloading the data [here](tas_NLD.zip) and creating a Jupyter
 Notebook named `transformation_KNMI.ipynb`.
+
+### Acknowledgments
+
+This exercise is based on materials from the Minor AI program, specifically the Course Data Processing and Representations. Special thanks to Wouter Vrielink & Tim Doolan for providing these materials.
 
 ### Loading the data
 
