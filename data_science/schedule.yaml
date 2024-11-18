@@ -1,0 +1,14 @@
+Data Science:
+    Set up:
+      Set up: /datascience/set_up
+      Introductie: /datascience/introductie
+    Algemeen:
+      Statistiek en pandas: /datascience/generalinfo
+    Statistische modellen:
+      Regressie: /datascience/regressie
+      Climate change: /datascience/climatechange
+    Oefendatasets:
+      Mushrooms: /datascience/mushrooms
+      Yelp: datascience/yelp
+
+TODO: milestones toevoegen

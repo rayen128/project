@@ -19,3 +19,5 @@ Q3: Stel we berekenen het gemiddelde van de cijfers die behaald zijn voor Progra
  
  TODO:vragen nakijken en aanpassen<br>
  TODO: vragen in los bestand laten maken en laten inleveren?
+ TODO: samenvoegen met meetniveaus?
+ TODO: samenvoegen met pandas?
