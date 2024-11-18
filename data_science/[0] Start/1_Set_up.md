@@ -31,7 +31,6 @@ After installation you can open Jupyter Notebook by typing the command:
 To get started:
 
 1. Go to [Kaggle](https://www.kaggle.com/) and click on **Register** to create an account.
-![Register](/Resources/kaggle_register_screenshot.png)
 
 2. Follow the prompts to complete your account setup.
 
