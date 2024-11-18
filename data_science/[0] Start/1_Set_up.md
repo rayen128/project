@@ -1,6 +1,5 @@
 # Setting up your environment
 
-
 ## Step 1: Get Jupyter Notebook
 
 You can install Jupyter Notebooks or install the extension for Visual Studio Code.
@@ -20,7 +19,6 @@ After installation you can open Jupyter Notebook by typing the command:
 ### Jupyter Notebook extension for Visual Studio Code:
 
   You can follow the tutorial [here](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
-
 
 ---
 
