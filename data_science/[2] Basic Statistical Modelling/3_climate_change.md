@@ -1,5 +1,7 @@
 # Data Transformation
 TODO: vragen nakijken en aanpassen
+TODO: Acknowledgements Minor TA
+
 ## KNMI data
 
 For this first assignment we will be using KNMI weather data, containing
