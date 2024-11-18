@@ -4,13 +4,11 @@ TODO: todo's in notebook (Rayen)
 
 ### Kaggle
 
-Maak de Kaggles courses over [data visualisation](https://www.kaggle.com/learn/data-visualization) en [data cleaning](https://www.kaggle.com/learn/data-cleaning). Dit is als voorbereiding voor de komende opdracht.
+Maak de Kaggles courses over [data visualisation](https://www.kaggle.com/learn/data-visualization) en [data cleaning](https://www.kaggle.com/learn/data-cleaning). Dit is als voorbereiding voor de komende opdracht. Je levert een PDF van het certificaat in.
 
-### Exercise
-In this assignment you will inspect and analyze a dataset, and use that information to answer questions about the data. We’re more interested in steps you took to answer the questions than the answers themselves. Make sure to properly document your journey!
+### Oefening
+In deze opdracht inspecteer en analyseer je een dataset en gebruik je die informatie om vragen over de gegevens te beantwoorden. We zijn meer geïnteresseerd in de stappen die je nam om de vragen te beantwoorden dan in de antwoorden zelf. Zorg ervoor dat je je reis goed documenteert!
 
-Download the notebook [here](mushrooms.ipynb) and the data file [here](mushrooms.csv).
+Download het notitieblok [hier](mushrooms.ipynb) en het gegevensbestand [hier](mushrooms.csv).
 
-Use *right click* -> *save as* to properly save the documents to your laptop.
-
-
+Gebruik *rechtermuis* -> *opslaan als* om de documenten op je laptop op te slaan.
