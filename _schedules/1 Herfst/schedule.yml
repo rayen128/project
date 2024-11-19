@@ -31,8 +31,8 @@ Data Science:
     Algemeen:
       Statistiek en pandas: /ds/algemeen
     Statistiek & statistische modellen:
-      Regressie: /ds/regressie
-      Climate change: /ds/climate
+      Regressie: /ds/statistiek/regressie
+      Climate change: /ds/statistiek/climate
     Oefendatasets:
       Mushrooms: /ds/oefen/mushrooms
       Yelp: /ds/oefen/yelp
