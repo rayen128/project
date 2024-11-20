@@ -1,0 +1,5 @@
+name: climate
+files:
+    required:
+        - certificaat.pdf
+        - transformation_KNMI.ipynb

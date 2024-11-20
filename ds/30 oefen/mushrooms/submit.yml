@@ -1,0 +1,5 @@
+name: mushrooms
+files:
+    required:
+        - certificaat.pdf
+        - mushrooms.ipynb

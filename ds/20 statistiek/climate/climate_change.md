@@ -3,13 +3,12 @@ TODO: Text & Pagina Checken
 
 ## Kaggle 
 Maak de Kaggle course over [machine learning](https://www.kaggle.com/learn/intro-to-machine-learning). Dit is als voorbereiding voor de volgende opdracht.
-<br>
-<br>
-<br>
 
-> Let op! Onderstaande opdracht mag je in groepjes van 2 of 3 personen maken. Zorg wel dat jullie allemaal een eigen notebook bijhouden en begrijpen wat jullie doen.
+*Vergeet niet je Kaggle-Certificaat als pdf in te leveren!*
 
 ## KNMI data
+
+> Let op! Onderstaande opdracht mag je in groepjes van 2 of 3 personen maken. Zorg wel dat jullie allemaal een eigen notebook bijhouden en begrijpen wat jullie doen.  
 
 For this first assignment we will be using KNMI weather data, containing
 average temperatures from *1901* through *2016*. The question we are trying
@@ -18,7 +17,7 @@ to answer with this data is:
 * Can we find any visually compelling evidence for climate change in the form
 of increasing average temperatures in the Netherlands over the last century?
 
-Get started by downloading the data [here](tas_NLD.zip) and creating a Jupyter
+Get started by downloading the data [here](../tas_NLD.zip) and creating a Jupyter
 Notebook named `transformation_KNMI.ipynb`.
 
 ### Acknowledgments

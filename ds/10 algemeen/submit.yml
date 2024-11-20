@@ -1,0 +1,6 @@
+name: algemeen
+files:
+    required:
+        - introductie.pdf
+        - certificaat.pdf
+

@@ -1,7 +1,3 @@
-TODO: Plaatjes van videos fixen \
-TODO: Pagina & Text checken
-
-
 # Regressie
 
 In deze module ga je iets meer te weten komen (& oefenen) met het meest bekende en gebruikte statistische model **Lineare Regressie**. Kijk de onderstaande filmpjes & beantwoord de vragen.
@@ -24,12 +20,12 @@ _Opmerking: Het laatste onderdeel van de video is misschien leuk om te weten, ma
 
 [![Video](http://img.youtube.com/vi/nk2CQITm_eo/0.jpg)](http://www.youtube.com/watch?v=nk2CQITm_eo&list=PL1Jt9Mfqf6egxIC99vcbWeDWTvOVq-7Mf&index=3 "What is a (mathematical) model?")
 
-**Q1**: Wat representeert de ‘variance’ van een variabele?
+**Q5**: Wat representeert de ‘variance’ van een variabele?
 
-**Q2**: Het gewicht/pizza model van eerder blijkt een SS(mean) van 75 en een SS(fit) van 72 te hebben. Hoeveel procent van de variatie in gewicht kan verklaard worden door de variabele ‘gegeten pizza’s per week’?
+**Q6**: Het gewicht/pizza model van eerder blijkt een SS(mean) van 75 en een SS(fit) van 72 te hebben. Hoeveel procent van de variatie in gewicht kan verklaard worden door de variabele ‘gegeten pizza’s per week’?
 
-**Q3**: Wat zegt de $R^2$ van een model over dat model?
+**Q7**: Wat zegt de $R^2$ van een model over dat model?
 
-**Q4**: Waarom maakt het toevoegen van willekeurige variabelen de $R^2$ van een model niet slechter?
+**Q8**: Waarom maakt het toevoegen van willekeurige variabelen de $R^2$ van een model niet slechter?
 
-**Q5**: Waarom is het vaak alsnog niet verstandig om zomaar willekeurige variabelen aan je model toe te voegen?
+**Q9**: Waarom is het vaak alsnog niet verstandig om zomaar willekeurige variabelen aan je model toe te voegen?

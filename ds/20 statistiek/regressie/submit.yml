@@ -1,0 +1,4 @@
+name: regressie
+files:
+    required:
+        - regressie.pdf
