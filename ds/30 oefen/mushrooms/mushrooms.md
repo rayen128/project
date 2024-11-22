@@ -11,6 +11,6 @@ Voordat je aan de opdracht begint, maak je de Kaggles courses over [data visuali
 
 ### Oefening
 
-Download de notebook met de vragen [hier](mushrooms.ipynb) en de data [hier](mushrooms.csv).
+Download de notebook met de vragen [hier](/data/mushrooms.ipynb) en de data [hier](/data/mushrooms.csv).
 
 Gebruik *rechtsklik* -> *opslaan als* om de documenten op je laptop op te slaan.

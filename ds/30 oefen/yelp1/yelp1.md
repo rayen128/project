@@ -1,6 +1,7 @@
 
 # Health code inspections
-TODO: Opdracht Inzichtelijk Maken (Lieke)
+
+> Let op! Onderstaande opdracht is optioneel. Maak dit deel alleen als je minimaal een dag voorloopt op het schema. Lees de opdracht wel goed door voordat je aan deel 2 begint. Zo weet je met wat voor data je te maken hebt. 
 
 For this assignment we'll be working with restaurant health code inspection
 data from the city of Seattle. It lists which restaurants were inspected when,
