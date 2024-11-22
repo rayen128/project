@@ -66,6 +66,17 @@ Tot die tijd hebben we verschillende programmeeropdrachten en theorievragen klaa
 
 Tot slot, mocht je opmerkingen, vragen of klachten over wat dan ook over het track hebben, deel deze dan vooral met ons! **Feedback wordt ontzettend gewaardeerd**.
 
+## Programma
+
+| Dag                | Modulle                            |
+|--------------------|------------------------------------|
+| Maandag 25/11      | Set-up en algemeen                 |
+| Dinsdag 26/11      | Statistiek & statistische modellen |
+| Woensdag 27/11     | Statistiek & statistische modellen |
+| Donderdag 28/11    | Oefendatasets                      |
+| Vrijdag 29/11      | Oefendatasets,                  |
+| Maandag 2/12
+| Dinsdag 3/12
 ## Bijdragen
 
 Grote dank aan Wouter Vrielink en Tim Doolan van de Minor AI voor het meedenken aan deze track en mogen gebruiken van verschillende notebooks & opdrachten.
