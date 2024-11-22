@@ -64,19 +64,25 @@ Welke focus je ook kiest, wij begeleiden je om je project tot een succes te make
 
 Tot die tijd hebben we verschillende programmeeropdrachten en theorievragen klaargezet bekend te raken met het onderwerp. Bij deze opdrachten ga je leren over een paar modellen die toegepast kunnen worden op data en hoe je dat doet in de programmeertaal Python. Voor deze opdrachten is geen voorkennis nodig. Dit kan betekenen dat ze aan de makkelijkere kant zijn voor studenten die al wat meer statistiek vakken gevolgd hebben. Voor deze studenten geldt; probeer jezelf echt uit te dagen voor het project. Kies bijvoorbeeld een onderwerp waar je nog niet veel ervaring mee hebt of een dataset die wat lastiger is om te verwerken. Hierin zullen wij je ook mee begeleiden.
 
-Tot slot, mocht je opmerkingen, vragen of klachten over wat dan ook over het track hebben, deel deze dan vooral met ons! **Feedback wordt ontzettend gewaardeerd**.
+Tot slot, mocht je opmerkingen, vragen of klachten over wat dan ook over het track hebben, deel deze dan vooral met ons! **Feedback wordt ontzettend gewaardeerd**. Voor ons is het de eerste keer dat deze track zo gegeven wordt, dus elke vorm van feedback helpt ons om het de volgede keren te verbeteren.
 
 ## Programma
 
-| Dag                | Modulle                            |
+In onderstaand schema is het rooster voor de eerste week te zien.
+
+| Dag                | Module                             |
 |--------------------|------------------------------------|
 | Maandag 25/11      | Set-up en algemeen                 |
 | Dinsdag 26/11      | Statistiek & statistische modellen |
 | Woensdag 27/11     | Statistiek & statistische modellen |
 | Donderdag 28/11    | Oefendatasets                      |
-| Vrijdag 29/11      | Oefendatasets,                  |
-| Maandag 2/12
-| Dinsdag 3/12
+| Vrijdag 29/11      | Oefendatasets                      |
+
+Dit is een leidraad van hoe je je tijd het beste kan verdelen de eerste week. In deze week krijgen jullie in een heel hoog tempo de basics van Data Science aangeleerd, dus het zal deze week hard werken worden. Zorg daarom dat je vooral in deze week alle dagen aanwezig bent zodat je optimaal gebruik kan maken van de TA's en je medestudenten. Mocht je ergens in de week voorlopen, ga dan vooral verder met de module van de volgende dag! Mocht je achterlopen omdat je het lastig vindt of om een andere reden, geef het vooral bij de TA's aan! Op vrijdag 29 november zullen 
+TODO: beschrijving werkgroep
+
+Na de eerste week kan je gaan beginnen aan jouw eigen project. Gelijk die maandag (2 december) moet het projectvoorstel al worden ingeleverd. Zorg er daarom voor dat je in de eerste week al gaat nadenken over welk project je zou willen maken en welke data je daarvoor nodig hebt. Na het inleveren van je voorstel kan je aan je project gaan beginnen. Tijdens dit proces zul je verschillende versies van je project in moeten leveren. Hier staan ook deadlines voor. Voor meer informatie over hierover kan je op de pagina's van de verschillende milestones vinden.
+
 ## Bijdragen
 
 Grote dank aan Wouter Vrielink en Tim Doolan van de Minor AI voor het meedenken aan deze track en mogen gebruiken van verschillende notebooks & opdrachten.
