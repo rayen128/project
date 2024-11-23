@@ -1,8 +1,7 @@
 
 # Health code inspections
-TODO: vragen nakijken en aanpassen
 
-> Deze opdracht gaat door op yelp deel 1. Zorg dat je die opdracht in ieder geval hebt doorgelezen voordat je aan deze opdracht begint. Heb je het eerste deel niet gemaakt, download dan [hier](/data/transformation_YELP.ipynb) de notebook voor dat deel. Zorg dat je de code runt en begrijpt voordat je verder gaat met het tweede deel.
+> Deze opdracht gaat door op yelp deel 1. Zorg dat je die opdracht in ieder geval hebt doorgelezen voordat je aan deze opdracht begint. Heb je het eerste deel niet gemaakt, download dan [hier](/data/transformation_YELP.ipynb) de notebook voor dat deel. Zorg dat je de code runt en begrijpt voordat je verder gaat met het tweede deel. Let op! Deze notebook heeft bij het samenvoegen van de restaurants en de reviews een iets andere methode gebruikt dan omschreven in de opdracht. Zorg dat je begrijpt hoe beide manieren werken en zorgen voor hetzelfde resultaat.
 
 The second part of this exercise continues upon the first part, and will be programmed in the same Jupyter Notebook: `transformation_YELP.ipynb`.
 

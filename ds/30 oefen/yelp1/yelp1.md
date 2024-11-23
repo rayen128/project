@@ -281,7 +281,7 @@ The restructured dictionary should end up looking something like:
 ### Merging in the inspections
 
 Now apply the same `clean_name()` function to every name in the inspections
-DataFrame. Use [map()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.map.html)
+DataFrame you made in the introduction. Use [map()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.map.html)
 to apply the function to the entire `'Name'` column at once and store the result in
 that same column. Using the same `clean_name()` function to clean up both sources
 of data should ensure consistent results for this transformation, so names that
