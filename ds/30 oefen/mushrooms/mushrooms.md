@@ -4,7 +4,6 @@ Je gaat nu met nog een dataset werken, zoals de naam al zegt gaat deze over mush
 
 We zijn meer geïnteresseerd in de stappen die je nam om de vragen te beantwoorden dan in de antwoorden zelf. Zorg er dus voor dat je de stappen goed beschrijft!
 
-
 ### Kaggle
 
 Voordat je aan de opdracht begint, maak je de Kaggles courses over [data visualisation](https://www.kaggle.com/learn/data-visualization). Je levert een PDF van je behaalde certificaat in.

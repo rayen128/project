@@ -8,7 +8,7 @@ Daarna ga je beginnen met het behalen van je eerste Kaggle certificaat. Als je d
 
 ## Wat is een (wiskundig) model?
 
-TODO: Korte uitleg van relevantie (Rayen)
+Wiskundige modellen helpen ons patronen te begrijpen, voorspellingen te maken, en verbanden tussen variabelen te ontdekken. Ze vereenvoudigen complexe data en maken analyses mogelijk die anders niet uitvoerbaar zijn.
 
 Bekijk onderstaande video en beantwoord de vragen.
 
@@ -22,7 +22,7 @@ Bekijk onderstaande video en beantwoord de vragen.
 
 ## Meetniveaus
 
-TODO: Korte uitleg van relevantie (Rayen)
+Meetniveaus bepalen welke analyses mogelijk zijn. Ze helpen om data correct te interpreteren en passende statistische methoden te kiezen. Fouten in het begrijpen van meetniveaus leiden tot onjuiste conclusies, analyseer de meet-niveaus van je data daarom meteen!
 
 Bekijk onderstaande video en beantwoord de vraag.
 
