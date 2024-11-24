@@ -8,7 +8,11 @@ Maak de Kaggle course over [machine learning](https://www.kaggle.com/learn/intro
 
 ## KNMI data
 
-> Let op! Onderstaande opdracht mag je in groepjes van 2 of 3 personen maken. Zorg wel dat jullie allemaal een eigen notebook bijhouden en begrijpen wat jullie doen.  
+### Acknowledgments
+
+This exercise is based on materials from the Minor AI program, specifically the Course Data Processing and Representations. Special thanks to Wouter Vrielink & Tim Doolan for providing these materials.
+
+> Let op! Onderstaande opdracht mag je in groepjes van 2 of 3 personen maken. Zorg wel dat jullie allemaal een eigen notebook bijhouden en begrijpen wat jullie doen.
 
 For this first assignment we will be using KNMI weather data, containing
 average temperatures from *1901* through *2016*. The question we are trying
@@ -17,12 +21,15 @@ to answer with this data is:
 * Can we find any visually compelling evidence for climate change in the form
 of increasing average temperatures in the Netherlands over the last century?
 
-Get started by downloading the data [here](../tas_NLD.zip) and creating a Jupyter
-Notebook named `transformation_KNMI.ipynb`.
+<br>
 
-### Acknowledgments
+You'll answer this by working through the text down below. Note:
 
-This exercise is based on materials from the Minor AI program, specifically the Course Data Processing and Representations. Special thanks to Wouter Vrielink & Tim Doolan for providing these materials.
+- **Carefully read the text**, as the exercise's requirements may not always be immediately obvious.
+
+- **Document** (and explain) all steps you've taken.
+
+Get started by downloading the data [here](../tas_NLD.zip) and creating a Jupyter Notebook named `transformation_KNMI.ipynb`.
 
 ### Loading the data
 
@@ -31,13 +38,14 @@ function. Merge each of the resulting data frames together to a single data
 frame using a [concat()](https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html#concatenating-objects)
 operation.
 
-Print or output the resulting data frame and consider whether it looks correct. Now, try
-to access each of the columns of the frame individually. You should be running
-into some unexpected errors, which are caused by the formatting of the data.
-Open one of the data files in a text editor and see if you can spot what
-exactly is going wrong. The `read_csv` function has several optional arguments
-you can add to change how files are processed. Try to find the appropriate
-optional argument to change and update your code to load each of the data files
+Do the following:
+
+1. Print or output the resulting data frame and consider whether it looks correct.
+2. Try to access each of the columns of the frame individually. (You should be running
+into some unexpected errors)
+3. Open one of the data files in a text editor and see if you can spot what exactly is going wrong. 
+4. The `read_csv` function has several optional arguments
+you can add to change how files are processed. Try to find the appropriate optional argument to change and update your code to load each of the data files
 correctly.
 
 ### Plotting the data and the trend
@@ -62,17 +70,10 @@ code.
 
     model = LinearRegression()
 
-Now you can call functions on this model like `model.fit(X, y)` and
-`model.predict(X)` Use this [fit()](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression.fit)
-function to fit a line through your data, where `X` should be the input data,
-so in this case the *years*, and `y` the target data, which should be
-the *temperature*.
+Now you can call functions on this model like `model.fit(X, y)` and `model.predict(X)` Use this [fit()](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression.fit) function to fit a line through your data, where `X` should be the input data, so in this case the *years*, and `y` the target data,which should be the *temperature*.
 
-Trying to use the `fit` function will probably result in the following
-error: `ValueError: Expected 2D array, got 1D array instead`. This is because
-the `fit` function is designed to handle multiple input features for the model,
-which means that it expects the data in a specific 2D format. It will be a lot
-easier to change the shape of the data if we convert the years *series* to a
+Trying to use the `fit` function will probably result in the following error: `ValueError: Expected 2D array, got 1D array instead`. This is because the `fit` function is designed to handle multiple input features for the model,
+which means that it expects the data in a specific 2D format. It will be a lot easier to change the shape of the data if we convert the years *series* to a
 *numpy array*, using the [to_numpy()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.to_numpy.html#pandas.Series.to_numpy)
 function and then [reshape()](https://docs.scipy.org/doc/numpy/reference/generated/numpy.reshape.html)
 the resulting array to the shape the error message suggests.

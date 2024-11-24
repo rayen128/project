@@ -10,7 +10,7 @@ Data Science draait om het creëren van waarde uit data. Dit wordt veelal gedaan
 
 Voor je eigen project ben je vrij om zelf een onderwerp en dataset te kiezen. Een Data Science project kan over het algemeen worden opgedeeld in drie belangrijke onderdelen: **Data Processing & Feature Engineering**, **Machine Learning**, en **Data Visualisatie**. Hoewel de meeste projecten elementen van alle drie zullen bevatten, ga jij binnen je project de focus leggen op één van deze pijlers.
 
-We begeleiden je bij elke stap, van het vinden van data tot het ontwikkelen van je projectplan. Dat lijkt moeilijk, maar geen zorgen! Er zijn echt genoeg openbare databases te vinden die zonder al teveel moeite te gebruiken zijn. Hier kun je zelf via verschillende sites naar zoeken, maar kijk sowieso even op [Kaggle](https://www.kaggle.com/) of [deze community-post](https://www.kaggle.com/discussions/general/268890) voor inspiratie.
+We begeleiden je bij elke stap, van het vinden van data tot het ontwikkelen van je projectplan. Dat lijkt moeilijk, maar geen zorgen! Er zijn echt genoeg openbare databases te vinden die zonder al teveel moeite te gebruiken zijn. Hier kun je zelf via verschillende sites naar zoeken, maar kijk sowieso even op [Kaggle](https://www.kaggle.com/) of [deze community-post](https://www.kaggle.com/discussions/general/268890) voor inspiratie. Ook hier 3 projecten die ik zelf (Rayen) heb gemaakt ([1, ](https://www.kaggle.com/code/wenzhuohuruby/signal-13-groupversion)[2, ](https://www.kaggle.com/code/rayenoaf/main-reviews-16)[3](https://www.kaggle.com/code/inescuelifernandez/emo-group-8)); deze zijn niet representatief voor jou eigen project, maar geven hopelijk wel inspiratie.
 
 ### **De drie pijlers van Data Science**  
 
