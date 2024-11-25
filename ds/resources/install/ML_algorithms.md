@@ -15,6 +15,8 @@ Algoritmes die leren van gelabelde data om voorspellingen te doen.
 
 - **Logistische Regressie**: Een probabilistisch model voor binaire of multi-klasse voorspellingen.  
 
+- **Ridge & Lasso**: Uitgebreide regressie modellen met een zogehete *penalty*.
+
 - **Random Forests**  Combineert meerdere decision trees voor verbeterde accuracy. Kan in combinatie met:
     - Bagging (Bootstrap Aggregating)
     - Boosting
@@ -23,6 +25,19 @@ Algoritmes die leren van gelabelde data om voorspellingen te doen.
 
 - **Support Vector Machines (SVM)**: Scheidt klassen met een hypervlak met maximale marge.  
 
+
+--- 
+
+### **Important Techniques**
+Technieken die van toepassing kunnen zijn bovenop je modellen.
+
+- **Validation set**: Maak een gedeelte van je trainingdata de validatie-set en gebruik deze om te testen. 
+
+- **Cross Validation**: Uitbreiding en verbetering op de validatie-set techniek.
+
+- **Standardiseren**: Een transformatie van je variabelen om (verschillen in) schaal te verwijderen.
+
+- **Log Transformation**: Een wiskundige operatie over je variabelen om deze interpreteerbaar te maken.
 
 --- 
 
